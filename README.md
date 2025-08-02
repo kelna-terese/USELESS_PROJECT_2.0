@@ -1,39 +1,41 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Pazhampori Counter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Nomu]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Kelna] - [AISAT]
+- Member 2: [Jeeva] - [AISAT]
 
 ### Project Description
-[2-3 lines about what your project does]
+[PazhamPori Counter is a fun, food-themed click counter built using HTML, CSS, and JavaScript. The goal of this project is to learn and practice basic web development skills while making something light-hearted and culturally familiar.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[“How do we track the number of PazhamPoris we've eaten without eating them?”
+
+This project solves the totally unnecessary but deeply satisfying need to count imaginary PazhamPoris just by clicking a button. No real calories involved — just pure digital joy."
+
+]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[A shiny button that goes click and adds one more PazhamPori to your imaginary plate 🍌🔥
+With stylish fonts and sweet colors, it’s the only tool you’ll ever need to feel productive without doing anything useful.
+Built using just HTML, CSS, and JavaScript — because who needs frameworks when you're counting fritters?]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [HTML,Javascript,CSS]
 - [Libraries used]
-- [Tools used]
+- [GPT]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Laptop,Mobile phone]
 
 ### Implementation
 For Software:
@@ -47,14 +49,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![PazhamPori Counter Preview](Screenshot.png)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,14 +77,17 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+## 📺 Demo Video
+
+[Watch the demo on Google Drive](https://drive.google.com/file/d/12PWFoDIgHE23woMTEyjQnjmQEdCzXe-G/view?usp=drivesdk)
+
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- [Jeeva]: [Idea and design]
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
